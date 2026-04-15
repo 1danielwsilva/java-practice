@@ -9,3 +9,8 @@ Personal development log — notes, findings, and ongoing work.
 - Fixed minor edge case in input handling
 - Updated license year
 - Checked for memory leaks in long-running path
+
+## 2026-04-15
+- Resolved deprecation warnings
+- Documented config options
+- Consolidated duplicate helper functions
