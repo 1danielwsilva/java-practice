@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Resolved deprecation warnings
 - Documented config options
 - Consolidated duplicate helper functions
+
+## 2026-04-22
+- Added CONTRIBUTING.md stub
+- Resolved deprecation warnings
+- Updated dependencies to latest stable versions
